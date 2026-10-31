@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">巴蒂监控</string>
+    <string name="acc_desc">判断当前是不是在桌面，用于只在桌面显示监控条；同时把遥控器的语音键当作打开监控面板的快捷键。不读取屏幕内容。</string>
+</resources>
